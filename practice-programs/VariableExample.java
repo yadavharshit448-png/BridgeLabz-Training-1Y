@@ -10,6 +10,6 @@ class VariableExample{
     }
     public static void main(String[] args) {
         VariableExample var = new VariableExample();
-        var.display();
+        var.display();=
     }
 }
