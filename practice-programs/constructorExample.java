@@ -5,7 +5,7 @@ class constructorExample{
 		
 		
 		public constructorExample(){
-			System.out.println("constructor Program");
+			System.out.println("Default constructor");
 			
 		}
 		
@@ -25,7 +25,7 @@ class constructorExample{
 		}
 	
 	public static void main(String[]args){
-		
+		constructorExample cd = new constructorExample();
 		constructorExample c = new constructorExample(1, "Harshit",18);
 		c.display();
 		
