@@ -1,3 +1,5 @@
+package com.gla;
+
 class ExamActivity implements Runnable {
     private String activityName;
     private int startDelaySeconds;

@@ -1,3 +1,5 @@
+package com.gla;
+
 class SmartDevice implements Runnable {
     private String deviceName;
     private int intervalSeconds;

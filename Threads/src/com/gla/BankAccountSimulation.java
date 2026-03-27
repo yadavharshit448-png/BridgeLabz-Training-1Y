@@ -1,3 +1,5 @@
+package com.gla;
+
 class BankAccount {
     private String accountHolderName;
     private int balance;
